@@ -72,7 +72,7 @@ const FloorPlan1 = () => {
           name="keywords"
           content="더샵 신문 그리니티 2차, 평면도, 84㎡, 93㎡, 김해 신문1지구, 장유, 율하, 더샵, 포스코이앤씨"
         />
-        <link rel="canonical" href="https://www.abcya4.com/FloorPlan/59A" />
+        <link rel="canonical" href="https://www.luris.kr/FloorPlan/59A" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="더샵 신문 그리니티 2차 - 평면안내" />
@@ -80,8 +80,8 @@ const FloorPlan1 = () => {
           property="og:description"
           content="전용 84·93㎡ 중심의 평면 구성과 남향 위주·4Bay 설계를 한눈에. 라이프스타일에 맞는 타입을 비교해 보세요."
         />
-        <meta property="og:image" content="https://www.abcya4.com/Main1.png" />
-        <meta property="og:url" content="https://www.abcya4.com/FloorPlan/59A" />
+        <meta property="og:image" content="https://www.luris.kr/Main1.png" />
+        <meta property="og:url" content="https://www.luris.kr/FloorPlan/59A" />
         <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
         {/* Twitter 카드 설정 */}
@@ -91,8 +91,8 @@ const FloorPlan1 = () => {
           name="twitter:description"
           content="84·93㎡ 중심의 평면안내. 수납 특화와 효율적인 동선, 채광·통풍을 고려한 설계를 확인하세요."
         />
-        <meta name="twitter:image" content="https://www.abcya4.com/Main1.png" />
-        <meta name="twitter:url" content="https://www.abcya4.com/FloorPlan/59A" />
+        <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
+        <meta name="twitter:url" content="https://www.luris.kr/FloorPlan/59A" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -102,7 +102,7 @@ const FloorPlan1 = () => {
               "@type": "WebPage",
               "name": "더샵 신문 그리니티 2차 - 평면안내",
               "description": "더샵 신문 그리니티 2차의 전용 84·93㎡ 평면 구성과 수납 특화, 남향 위주·4Bay 설계를 소개합니다.",
-              "url": "https://www.abcya4.com/FloorPlan/59A"
+              "url": "https://www.luris.kr/FloorPlan/59A"
             }
           `}
         </script>
