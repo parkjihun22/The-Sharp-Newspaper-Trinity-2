@@ -68,7 +68,7 @@ const Interior1 = () => {
               name="keywords"
               content="더샵 신문 그리니티 2차, 인테리어, 84㎡, 93㎡, 김해 신문1지구, 장유, 율하, 포스코이앤씨, 더샵"
             />
-            <link rel="canonical" href="https://www.luris.kr/Interior/A" />
+            <link rel="canonical" href="https://tradexmeds.com/Interior/A" />
 
             {/* Open Graph - 소셜 미디어 공유 최적화 */}
             <meta property="og:title" content="더샵 신문 그리니티 2차 - 인테리어" />
@@ -76,8 +76,8 @@ const Interior1 = () => {
               property="og:description"
               content="프리미엄 마감과 수납 특화로 완성한 84·93㎡ 인테리어. 주방/거실/침실 공간별 디자인과 옵션을 한눈에."
             />
-            <meta property="og:image" content="https://www.luris.kr/Main1.png" />
-            <meta property="og:url" content="https://www.luris.kr/Interior/A" />
+            <meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+            <meta property="og:url" content="https://tradexmeds.com/Interior/A" />
             <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
             {/* Twitter 카드 설정 */}
@@ -87,8 +87,8 @@ const Interior1 = () => {
               name="twitter:description"
               content="세련된 컬러 패키지, 고급 자재, 효율적 수납 설계로 일상을 바꾸는 인테리어를 만나보세요."
             />
-            <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
-            <meta name="twitter:url" content="https://www.luris.kr/Interior/A" />
+            <meta name="twitter:image" content="https://tradexmeds.com/Main1.png" />
+            <meta name="twitter:url" content="https://tradexmeds.com/Interior/A" />
 
             {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
             <script type="application/ld+json">
@@ -98,7 +98,7 @@ const Interior1 = () => {
                   "@type": "WebPage",
                   "name": "더샵 신문 그리니티 2차 - 인테리어",
                   "description": "전용 84·93㎡ 중심, 프리미엄 마감과 수납 특화 설계를 갖춘 더샵 신문 그리니티 2차 인테리어 소개.",
-                  "url": "https://www.luris.kr/Interior/A"
+                  "url": "https://tradexmeds.com/Interior/A"
                 }
               `}
             </script>	

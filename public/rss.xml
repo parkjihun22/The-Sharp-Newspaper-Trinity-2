@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>더샵신문그리니티</title>
-    <link>https://www.luris.kr/</link>
+    <link>https://tradexmeds.com/</link>
     <description>더샵신문그리니티 | 모델하우스 | 분양일정 | 공급안내 | 입지·프리미엄 | 단지·세대안내 | 관심고객등록</description>
     <language>ko-KR</language>
-    <atom:link href="https://www.luris.kr/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tradexmeds.com/rss.xml" rel="self" type="application/rss+xml"/>
 
     <!-- 브랜드소개 -->
     <item>
       <title>브랜드 소개</title>
-      <link>https://www.luris.kr/Brand/intro</link>
-      <guid isPermaLink="true">https://www.luris.kr/Brand/intro</guid>
+      <link>https://tradexmeds.com/Brand/intro</link>
+      <guid isPermaLink="true">https://tradexmeds.com/Brand/intro</guid>
       <description><![CDATA[더샵신문그리니티의 브랜드 철학과 가치, 주거 품질 기준을 소개합니다.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>홍보 영상</title>
-      <link>https://www.luris.kr/Brand/video</link>
-      <guid isPermaLink="true">https://www.luris.kr/Brand/video</guid>
+      <link>https://tradexmeds.com/Brand/video</link>
+      <guid isPermaLink="true">https://tradexmeds.com/Brand/video</guid>
       <description><![CDATA[입지·설계·커뮤니티 핵심을 담은 더샵신문그리니티 홍보 영상을 확인하세요.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -26,8 +26,8 @@
     <!-- 사업개요 -->
     <item>
       <title>사업안내</title>
-      <link>https://www.luris.kr/BusinessGuide/intro</link>
-      <guid isPermaLink="true">https://www.luris.kr/BusinessGuide/intro</guid>
+      <link>https://tradexmeds.com/BusinessGuide/intro</link>
+      <guid isPermaLink="true">https://tradexmeds.com/BusinessGuide/intro</guid>
       <description><![CDATA[사업 개요와 세대 구성, 커뮤니티 계획, 입주 예정 등 핵심 정보를 한눈에.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -35,22 +35,22 @@
     <!-- 분양안내 -->
     <item>
       <title>분양일정</title>
-      <link>https://www.luris.kr/BusinessGuide/plan</link>
-      <guid isPermaLink="true">https://www.luris.kr/BusinessGuide/plan</guid>
+      <link>https://tradexmeds.com/BusinessGuide/plan</link>
+      <guid isPermaLink="true">https://tradexmeds.com/BusinessGuide/plan</guid>
       <description><![CDATA[모델하우스 개관, 특별공급/1순위 청약, 당첨자 발표, 계약 일정 확인.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>공급안내</title>
-      <link>https://www.luris.kr/SalesInfo/guide</link>
-      <guid isPermaLink="true">https://www.luris.kr/SalesInfo/guide</guid>
+      <link>https://tradexmeds.com/SalesInfo/guide</link>
+      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/guide</guid>
       <description><![CDATA[타입별 면적·세대수, 동·호수 개요, 분양가/납부일정, 옵션 및 유의사항 안내.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>모집공고안내</title>
-      <link>https://www.luris.kr/SalesInfo/announcement</link>
-      <guid isPermaLink="true">https://www.luris.kr/SalesInfo/announcement</guid>
+      <link>https://tradexmeds.com/SalesInfo/announcement</link>
+      <guid isPermaLink="true">https://tradexmeds.com/SalesInfo/announcement</guid>
       <description><![CDATA[공급 세대수·면적·분양가, 청약 자격, 접수/발표/계약 절차 등 공식 안내.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -58,15 +58,15 @@
     <!-- 입지환경 -->
     <item>
       <title>입지안내</title>
-      <link>https://www.luris.kr/LocationEnvironment/intro</link>
-      <guid isPermaLink="true">https://www.luris.kr/LocationEnvironment/intro</guid>
+      <link>https://tradexmeds.com/LocationEnvironment/intro</link>
+      <guid isPermaLink="true">https://tradexmeds.com/LocationEnvironment/intro</guid>
       <description><![CDATA[광역 교통, 생활·교육·의료 인프라, 수변·공원 등 입지 경쟁력을 소개합니다.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>프리미엄</title>
-      <link>https://www.luris.kr/LocationEnvironment/primium</link>
-      <guid isPermaLink="true">https://www.luris.kr/LocationEnvironment/primium</guid>
+      <link>https://tradexmeds.com/LocationEnvironment/primium</link>
+      <guid isPermaLink="true">https://tradexmeds.com/LocationEnvironment/primium</guid>
       <description><![CDATA[남향 위주 4Bay, 공원형 조경, 특화 커뮤니티 등 차별화된 주거 프리미엄.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -74,22 +74,22 @@
     <!-- 단지안내 -->
     <item>
       <title>단지 배치도</title>
-      <link>https://www.luris.kr/ComplexGuide/intro</link>
-      <guid isPermaLink="true">https://www.luris.kr/ComplexGuide/intro</guid>
+      <link>https://tradexmeds.com/ComplexGuide/intro</link>
+      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/intro</guid>
       <description><![CDATA[동 배치, 조경, 커뮤니티, 주차·보행 동선 등 단지 설계를 한눈에.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>호수 배치도</title>
-      <link>https://www.luris.kr/ComplexGuide/detailintro</link>
-      <guid isPermaLink="true">https://www.luris.kr/ComplexGuide/detailintro</guid>
+      <link>https://tradexmeds.com/ComplexGuide/detailintro</link>
+      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/detailintro</guid>
       <description><![CDATA[세대별 동·호수 위치, 전망/일조/프라이버시 고려 배치 정보 제공.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>커뮤니티</title>
-      <link>https://www.luris.kr/ComplexGuide/community</link>
-      <guid isPermaLink="true">https://www.luris.kr/ComplexGuide/community</guid>
+      <link>https://tradexmeds.com/ComplexGuide/community</link>
+      <guid isPermaLink="true">https://tradexmeds.com/ComplexGuide/community</guid>
       <description><![CDATA[피트니스·스크린골프·스터디룸·작은도서관·게스트하우스 등 특화 커뮤니티.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -97,36 +97,36 @@
     <!-- 세대안내 -->
     <item>
       <title>84A㎡</title>
-      <link>https://www.luris.kr/FloorPlan/59A</link>
-      <guid isPermaLink="true">https://www.luris.kr/FloorPlan/59A</guid>
+      <link>https://tradexmeds.com/FloorPlan/59A</link>
+      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/59A</guid>
       <description><![CDATA[전용 84A㎡ 평면과 공간 포인트(수납 특화·동선·채광/통풍)를 확인하세요.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>84B㎡</title>
-      <link>https://www.luris.kr/FloorPlan/59B</link>
-      <guid isPermaLink="true">https://www.luris.kr/FloorPlan/59B</guid>
+      <link>https://tradexmeds.com/FloorPlan/59B</link>
+      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/59B</guid>
       <description><![CDATA[전용 84B㎡ 평면, 공간 활용 아이디어와 옵션 정보를 제공합니다.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>84㎡C</title>
-      <link>https://www.luris.kr/FloorPlan/84A</link>
-      <guid isPermaLink="true">https://www.luris.kr/FloorPlan/84A</guid>
+      <link>https://tradexmeds.com/FloorPlan/84A</link>
+      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/84A</guid>
       <description><![CDATA[전용 84㎡C 타입의 세부 평면, 수납/확장 포인트를 확인하세요.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>93㎡</title>
-      <link>https://www.luris.kr/FloorPlan/84B</link>
-      <guid isPermaLink="true">https://www.luris.kr/FloorPlan/84B</guid>
+      <link>https://tradexmeds.com/FloorPlan/84B</link>
+      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/84B</guid>
       <description><![CDATA[전용 93㎡ 타입의 여유로운 공간 구성과 특화 설계를 소개합니다.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
     <item>
       <title>E-모델하우스</title>
-      <link>https://www.luris.kr/FloorPlan/Emodel</link>
-      <guid isPermaLink="true">https://www.luris.kr/FloorPlan/Emodel</guid>
+      <link>https://tradexmeds.com/FloorPlan/Emodel</link>
+      <guid isPermaLink="true">https://tradexmeds.com/FloorPlan/Emodel</guid>
       <description><![CDATA[VR 가상 투어와 타입별 평면을 온라인에서 실감 나게 체험하세요.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>
@@ -134,8 +134,8 @@
     <!-- 인테리어 -->
     <item>
       <title>인테리어</title>
-      <link>https://www.luris.kr/Interior/59A</link>
-      <guid isPermaLink="true">https://www.luris.kr/Interior/59A</guid>
+      <link>https://tradexmeds.com/Interior/59A</link>
+      <guid isPermaLink="true">https://tradexmeds.com/Interior/59A</guid>
       <description><![CDATA[프리미엄 마감재·컬러 패키지·수납 특화 등 공간별 인테리어 포인트 안내.]]></description>
       <pubDate>Fri, 26 Sep 2025 14:00:00 +0900</pubDate>
     </item>

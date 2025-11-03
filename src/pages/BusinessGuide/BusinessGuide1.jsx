@@ -69,7 +69,7 @@ const BusinessGuide1 = () => {
           name="keywords"
           content="더샵 신문 그리니티 2차, 더샵, 포스코이앤씨, 김해 신문1지구, 장유, 율하, 사업개요, 분양"
         />
-        <link rel="canonical" href="https://www.luris.kr/BusinessGuide/intro" />
+        <link rel="canonical" href="https://tradexmeds.com/BusinessGuide/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="더샵 신문 그리니티 2차 - 사업안내" />
@@ -77,8 +77,8 @@ const BusinessGuide1 = () => {
           property="og:description"
           content="지하 2층~지상 29층 6개동, 총 695세대(전용 84·93㎡). 김해 신문1지구의 중심에서 더샵 브랜드가 제시하는 새로운 주거 기준을 확인하세요."
         />
-        <meta property="og:image" content="https://www.luris.kr/Main1.png" />
-        <meta property="og:url" content="https://www.luris.kr/BusinessGuide/intro" />
+        <meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+        <meta property="og:url" content="https://tradexmeds.com/BusinessGuide/intro" />
         <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
         {/* Twitter 카드 설정 */}
@@ -88,8 +88,8 @@ const BusinessGuide1 = () => {
           name="twitter:description"
           content="김해 신문1지구 더샵 신문 그리니티 2차 사업 개요: 6개동 695세대, 전용 84·93㎡, 남향 위주·4Bay 설계와 풍부한 커뮤니티."
         />
-        <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
-        <meta name="twitter:url" content="https://www.luris.kr/BusinessGuide/intro" />
+        <meta name="twitter:image" content="https://tradexmeds.com/Main1.png" />
+        <meta name="twitter:url" content="https://tradexmeds.com/BusinessGuide/intro" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -99,7 +99,7 @@ const BusinessGuide1 = () => {
               "@type": "WebPage",
               "name": "더샵 신문 그리니티 2차 - 사업안내",
               "description": "김해 신문1지구(장유·율하 생활권) 더샵 신문 그리니티 2차의 사업 개요: 6개동 695세대, 전용 84·93㎡, 남향 위주·4Bay 설계와 커뮤니티 특장점 안내.",
-              "url": "https://www.luris.kr/BusinessGuide/intro"
+              "url": "https://tradexmeds.com/BusinessGuide/intro"
             }
           `}
         </script>

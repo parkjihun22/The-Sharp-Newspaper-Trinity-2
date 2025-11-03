@@ -107,7 +107,7 @@ const LocationEnvironment1 = () => {
           name="keywords"
           content="더샵 신문 그리니티 2차, 김해 신문1지구, 장유, 율하, 입지안내, 교통, 생활 인프라, 포스코이앤씨, 더샵"
         />
-        <link rel="canonical" href="https://www.luris.kr/LocationEnvironment/intro" />
+        <link rel="canonical" href="https://tradexmeds.com/LocationEnvironment/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="더샵 신문 그리니티 2차 - 입지안내" />
@@ -115,8 +115,8 @@ const LocationEnvironment1 = () => {
           property="og:description"
           content="장유·율하 생활권의 원스톱 인프라와 광역 교통 프리미엄. 더샵 신문 그리니티 2차의 입지 경쟁력을 한눈에."
         />
-        <meta property="og:image" content="https://www.luris.kr/Main1.png" />
-        <meta property="og:url" content="https://www.luris.kr/LocationEnvironment/intro" />
+        <meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+        <meta property="og:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
         <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
         {/* Twitter 카드 설정 */}
@@ -126,8 +126,8 @@ const LocationEnvironment1 = () => {
           name="twitter:description"
           content="장유IC·서김해IC, 예정 장유역(부전~마산선)·BRT 연계, 김해관광유통단지·율하 상권·수변공원까지. 신문1지구 핵심 입지의 가치를 확인하세요."
         />
-        <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
-        <meta name="twitter:url" content="https://www.luris.kr/LocationEnvironment/intro" />
+        <meta name="twitter:image" content="https://tradexmeds.com/Main1.png" />
+        <meta name="twitter:url" content="https://tradexmeds.com/LocationEnvironment/intro" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -137,7 +137,7 @@ const LocationEnvironment1 = () => {
               "@type": "WebPage",
               "name": "더샵 신문 그리니티 2차 - 입지안내",
               "description": "김해 신문1지구(장유·율하 생활권) 핵심 입지와 교통·생활 인프라·녹지 환경을 소개합니다.",
-              "url": "https://www.luris.kr/LocationEnvironment/intro"
+              "url": "https://tradexmeds.com/LocationEnvironment/intro"
             }
           `}
         </script>

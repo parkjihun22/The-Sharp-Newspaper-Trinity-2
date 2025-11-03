@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "더샵신문그리니티", url: "https://www.luris.kr/" },
+  { name: "더샵신문그리니티", url: "https://tradexmeds.com/" },
 ];
 
 const Footer = () => {

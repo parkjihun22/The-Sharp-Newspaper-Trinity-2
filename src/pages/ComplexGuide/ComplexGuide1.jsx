@@ -64,7 +64,7 @@ const ComplexGuide1 = () => {
           name="keywords"
           content="더샵 신문 그리니티 2차, 김해 신문1지구, 단지배치도, 포스코이앤씨, 장유, 율하, 더샵"
         />
-        <link rel="canonical" href="https://www.luris.kr/ComplexGuide/intro" />
+        <link rel="canonical" href="https://tradexmeds.com/ComplexGuide/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="더샵 신문 그리니티 2차 - 단지배치도" />
@@ -72,8 +72,8 @@ const ComplexGuide1 = () => {
           property="og:description"
           content="동 배치·조경·커뮤니티·주차·보행 동선까지 생활 편의를 고려한 더샵 신문 그리니티 2차의 단지배치도를 확인하세요."
         />
-        <meta property="og:image" content="https://www.luris.kr/Main1.png" />
-        <meta property="og:url" content="https://www.luris.kr/ComplexGuide/intro" />
+        <meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+        <meta property="og:url" content="https://tradexmeds.com/ComplexGuide/intro" />
         <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
         {/* Twitter 카드 설정 */}
@@ -83,8 +83,8 @@ const ComplexGuide1 = () => {
           name="twitter:description"
           content="남향 위주·4Bay 판상형, 넓은 동간거리와 공원형 조경으로 쾌적함을 더한 단지배치도를 소개합니다."
         />
-        <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
-        <meta name="twitter:url" content="https://www.luris.kr/ComplexGuide/intro" />
+        <meta name="twitter:image" content="https://tradexmeds.com/Main1.png" />
+        <meta name="twitter:url" content="https://tradexmeds.com/ComplexGuide/intro" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -94,7 +94,7 @@ const ComplexGuide1 = () => {
               "@type": "WebPage",
               "name": "더샵 신문 그리니티 2차 - 단지배치도",
               "description": "더샵 신문 그리니티 2차 단지배치도: 동 배치, 조경, 커뮤니티, 주차·보행 동선 등 단지 전반의 공간 구성을 소개합니다.",
-              "url": "https://www.luris.kr/ComplexGuide/intro"
+              "url": "https://tradexmeds.com/ComplexGuide/intro"
             }
           `}
         </script>

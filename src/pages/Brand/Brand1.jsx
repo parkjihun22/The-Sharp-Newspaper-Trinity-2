@@ -67,7 +67,7 @@ const Brand1 = () => {
           name="keywords"
           content="더샵 신문 그리니티 2차, 더샵, 포스코이앤씨, 김해 신문1지구, 장유, 율하, 모델하우스, 분양, 평면도"
         />
-        <link rel="canonical" href="https://www.luris.kr/Brand/intro" />
+        <link rel="canonical" href="https://tradexmeds.com/Brand/intro" />
 
         {/* Open Graph */}
         <meta property="og:title" content="더샵 신문 그리니티 2차 - 브랜드 소개" />
@@ -75,8 +75,8 @@ const Brand1 = () => {
           property="og:description"
           content="더샵 신문 그리니티 2차: 포스코이앤씨 더샵의 브랜드 철학과 가치, 김해 신문1지구의 새로운 주거 기준을 확인하세요."
         />
-        <meta property="og:image" content="https://www.luris.kr/Main1.png" />
-        <meta property="og:url" content="https://www.luris.kr/Brand/intro" />
+        <meta property="og:image" content="https://tradexmeds.com/Main1.png" />
+        <meta property="og:url" content="https://tradexmeds.com/Brand/intro" />
         <meta property="og:site_name" content="더샵 신문 그리니티 2차" />
 
         {/* Twitter */}
@@ -86,8 +86,8 @@ const Brand1 = () => {
           name="twitter:description"
           content="포스코이앤씨 더샵의 혁신 설계와 프리미엄 품질. 김해 신문1지구 장유·율하 생활권의 새로운 기준, 더샵 신문 그리니티 2차."
         />
-        <meta name="twitter:image" content="https://www.luris.kr/Main1.png" />
-        <meta name="twitter:url" content="https://www.luris.kr/Brand/intro" />
+        <meta name="twitter:image" content="https://tradexmeds.com/Main1.png" />
+        <meta name="twitter:url" content="https://tradexmeds.com/Brand/intro" />
 
         {/* 구조화 데이터 (JSON-LD) */}
         <script type="application/ld+json">
@@ -97,7 +97,7 @@ const Brand1 = () => {
               "@type": "WebPage",
               "name": "더샵 신문 그리니티 2차 - 브랜드 소개",
               "description": "포스코이앤씨 더샵의 브랜드 철학과 가치, 김해 신문1지구 장유·율하 생활권의 미래 주거 비전을 소개합니다.",
-              "url": "https://www.luris.kr/Brand/intro"
+              "url": "https://tradexmeds.com/Brand/intro"
             }
           `}
         </script>
